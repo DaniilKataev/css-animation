@@ -138,7 +138,7 @@ body {
             box-shadow: #787878 0px 1px 7px 1px;
             height: calc(var(--index) * 7);
             transform-origin: 55% 80%;
-            animation: hourMove 216000s infinite linear;
+            animation: hourMove 86400s infinite linear;
         }
 
     }
